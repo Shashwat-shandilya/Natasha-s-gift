@@ -1,0 +1,18 @@
+#heading{
+    width: 500px;
+    height: 60px;
+    font-size: 30px;
+    margin-left: 500;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+#snap{
+    margin-left: 660;
+    width: 170px;
+    height: 50px;
+    font-size: 23px;
+    padding-right: 165px;
+}
+canvas {
+    border:2px dashed red;
+}
